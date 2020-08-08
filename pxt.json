@@ -1,0 +1,27 @@
+{
+    "name": "github_onedrive_perso",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "Minecraft/Batiments Cours/readme.md",
+        "Minecraft/ebuilder/.vscode/settings.json",
+        "Minecraft/ebuilder/.vscode/tasks.json",
+        "Minecraft/ebuilder/README.md",
+        "Minecraft/ebuilder/custom.ts",
+        "Minecraft/ebuilder/main.blocks",
+        "Minecraft/ebuilder/main.ts",
+        "Minecraft/ebuilder/pxt.json",
+        "Minecraft/ebuilder/test.ts",
+        "Minecraft/ebuilder/tsconfig.json",
+        "README.md",
+        "web_formation-master/readme.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
